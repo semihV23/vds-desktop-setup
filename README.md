@@ -12,4 +12,5 @@ Windows PowerShell'e ihtiyaç duyar.
 [Net.ServicePointManager]::SecurityProtocol = "Tls, Tls11, Tls12, Ssl3"
 wget https://raw.githubusercontent.com/semihV23/vds-desktop-setup/main/vds.ps1 -O vds.ps1
 .\vds.ps1
+
 ```
