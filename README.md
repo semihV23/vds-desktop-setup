@@ -1,6 +1,9 @@
 # vds-desktop-setup
 
 Chrome, WinRar ve 7-Zip'i otomatik indirip kurmaya yarayan PowerShell scripti.
+Serverler ve ev bilgisayarları için uygundur.
+
+Windows PowerShell'e ihtiyaç duyar.
 
 Çalıştırmak için bu kodu PowerShell penceresine yapıştırın.
 
